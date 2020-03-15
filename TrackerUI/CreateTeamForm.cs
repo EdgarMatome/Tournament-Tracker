@@ -16,7 +16,11 @@ namespace TrackerUI
         {
             InitializeComponent();
         }
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void deleteSelectedPlayersButton_Click(object sender, EventArgs e)
         {
 
